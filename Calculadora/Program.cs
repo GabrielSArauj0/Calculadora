@@ -1,3 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using Calculadora.Services;
 
-Console.WriteLine("Hello, World!");
+Calculator calculadora = new Calculator();
+calculadora.Menu();
