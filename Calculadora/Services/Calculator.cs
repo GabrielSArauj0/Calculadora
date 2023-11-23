@@ -13,7 +13,7 @@ public class Calculator
         Console.WriteLine("4- Multiplicação");
         Console.WriteLine("5- Fatorial");
         Console.WriteLine("6- Radiciacao");
-        Console.WriteLine("7- Potenciação");
+        Console.WriteLine("7- Inverso de radiciação");
         Console.WriteLine("0- Sair");
 
 
